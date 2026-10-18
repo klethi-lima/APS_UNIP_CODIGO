@@ -1,0 +1,13 @@
+/build/
+/build_*/
+/CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.sln
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.pdb
+*.exe
+imgui.ini
